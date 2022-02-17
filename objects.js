@@ -27,6 +27,8 @@ for( let key in Gaurav)
 }
 
 
+
+
 // console.log(name); // Gaurav is an object , firstName , lastName all these are properties of the object Gaurav
 
 
